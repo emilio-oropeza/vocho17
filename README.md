@@ -1,4 +1,4 @@
-### Hola, Soy Emilio a.k.a Vocho 👋
+### Hola, Soy Emilio 👋
 ---
 
 Soy desarrollador web con especial interés en el front end.
